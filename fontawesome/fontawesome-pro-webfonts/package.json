@@ -1,0 +1,82 @@
+{
+  "_from": "@fortawesome/fontawesome-pro-webfonts",
+  "_id": "@fortawesome/fontawesome-pro-webfonts@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-TfGYlaWkMGow4vCZT51SvjPLwqJ0PfR9RzifxE/c2G21pby29Sn/TxUvnTz65GY3hULktNWoBaJQfyL3aV0kZw==",
+  "_location": "/@fortawesome/fontawesome-pro-webfonts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@fortawesome/fontawesome-pro-webfonts",
+    "name": "@fortawesome/fontawesome-pro-webfonts",
+    "escapedName": "@fortawesome%2ffontawesome-pro-webfonts",
+    "scope": "@fortawesome",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://npm.fontawesome.com/@fortawesome/fontawesome-pro-webfonts/-/1.0.9/fontawesome-pro-webfonts-1.0.9.tgz",
+  "_shasum": "aaefb3837943c4597bdb53803b377b123c30929b",
+  "_spec": "@fortawesome/fontawesome-pro-webfonts",
+  "_where": "/Users/lennyrouanet/WebServer/wwwant.shop/public",
+  "author": {
+    "name": "Dave Gandy",
+    "email": "dave@fontawesome.com",
+    "url": "http://twitter.com/davegandy"
+  },
+  "bugs": {
+    "url": "http://github.com/FortAwesome/Font-Awesome/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Brian Talbot",
+      "url": "http://twitter.com/talbs"
+    },
+    {
+      "name": "Travis Chase",
+      "url": "http://twitter.com/supercodepoet"
+    },
+    {
+      "name": "Rob Madole",
+      "url": "http://twitter.com/robmadole"
+    },
+    {
+      "name": "Geremia Taglialatela",
+      "url": "http://twitter.com/gtagliala"
+    },
+    {
+      "name": "Mike Wilkerson",
+      "url": "http://twitter.com/mw77"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The iconic font, CSS, and SVG framework",
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://fontawesome.com",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "svg",
+    "bootstrap"
+  ],
+  "license": "UNLICENSED",
+  "main": "css/fontawesome.css",
+  "name": "@fortawesome/fontawesome-pro-webfonts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
+  },
+  "style": "css/fontawesome.css",
+  "version": "1.0.9"
+}
